@@ -2,7 +2,7 @@
 ### 🚀 Desarrollador Full-Stack en constante evolución
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=40&animation=twinkling" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=¡Bienvenido+a+mi+Perfil!;Full-Stack+Developer;React++TypeScript++Node;Apasionado+de+las+Clean+Architectures" alt="Typing SVG" />
 </div>
 
 <br />
@@ -40,10 +40,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=diegoortega1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" height="180" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoortega1&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180" />
       </td>
     </tr>
   </table>
@@ -65,7 +65,7 @@
 
 ## 🤝 Conecta conmigo
 <p align="left">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="blank">
+  <a href="https://linkedin.com/in/diego_ortega_tapia" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -73,5 +73,5 @@
 <br />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/TU_USUARIO_DE_GITHUB/count.svg" alt="Contador de visitas" />
+  <img src="https://profile-counter.glitch.me/diegoortega1/count.svg" alt="Contador de visitas" />
 </div>
