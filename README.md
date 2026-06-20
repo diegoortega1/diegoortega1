@@ -1,10 +1,7 @@
 # ¡Hola! Soy Diego 👋 
 ### 🚀 Desarrollador Full-Stack en constante evolución
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=¡Bienvenido+a+mi+Perfil!;Full-Stack+Developer;React++TypeScript++Node;Apasionado+de+las+Clean+Architectures" alt="Typing SVG" />
-</div>
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=38B2AC&center=false&vCenter=true&width=700&lines=Full-Stack+Developer;React++TypeScript++Node;Apasionado+de+las+Clean+Architectures)
 <br />
 
 ## 💫 Sobre Mí
@@ -50,7 +47,7 @@
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=tokyonight" alt="Racha en GitHub" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoortega1&theme=tokyonight" alt="Racha en GitHub" width="100%" />
 </div>
 
 ---
@@ -58,14 +55,14 @@
 ## 📈 Mi Actividad Reciente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_DE_GITHUB&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoortega1&theme=tokyonight" width="100%" />
 </div>
 
 ---
 
 ## 🤝 Conecta conmigo
 <p align="left">
-  <a href="https://linkedin.com/in/diego_ortega_tapia" target="blank">
+  <a href="https://linkedin.com/in/diego-ortega-tapia" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
